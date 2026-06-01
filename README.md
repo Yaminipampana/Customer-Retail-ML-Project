@@ -3,6 +3,19 @@
 ## Project Objective
 Compare multiple Machine Learning algorithms using a customer retail dataset.
 
+## Dataset
+
+The original customer retail dataset is not included in this repository because of its large size.
+
+To run this project:
+
+1. Download the dataset.
+2. Place `customer_retail.csv` in the project root directory.
+3. Run the notebook.
+
+The notebook performs preprocessing, model training, evaluation, and visualization using the dataset.
+
+
 ## Algorithms Used
 - Logistic Regression
 - Decision Tree Classifier
