@@ -40,11 +40,11 @@ The notebook performs preprocessing, model training, evaluation, and visualizati
 
 ### Customer Distribution
 
-![Customer Distribution](outputs/customer_distribution.png)
+![Customer Distribution](Output/customer_distribution.png)
 
 ### Model Accuracy Comparison
 
-![Accuracy Comparison](outputs/accuracy_comparison.png)
+![Accuracy Comparison](Output/accuracy_comparison.png)
 
 ## Technologies
 - Python
