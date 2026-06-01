@@ -36,6 +36,16 @@ The notebook performs preprocessing, model training, evaluation, and visualizati
 - Customer Distribution Graph
 - Model Accuracy Comparison Graph
 
+## Output Screenshots
+
+### Customer Distribution
+
+![Customer Distribution](outputs/customer_distribution.png)
+
+### Model Accuracy Comparison
+
+![Accuracy Comparison](outputs/accuracy_comparison.png)
+
 ## Technologies
 - Python
 - Pandas
